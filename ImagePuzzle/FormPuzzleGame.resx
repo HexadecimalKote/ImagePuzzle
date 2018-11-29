@@ -123,19 +123,19 @@
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="Menu_StartGame.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADlSURBVDhPnZI/DgFBFMZXohCNRKXSaBUOINH413AAjQM4
-        gEp2R6FW6TWKnc4ZHMAV9BKNUBDPNy+GyYu1a4rfN8W+75fM2wmIKGjrWdGcPnB0dXSBJARlOZAGRz+e
-        k6GnozskS1CVg0lwWMFbFKsHJGtQlwUJhxR8UATJFjRl0cLxveyiqKPDPUQDkPMQWJTZ0wmSMch7CCwQ
-        xeoKycRbgF9/hGD09xVQPKA4BLyLjAJe4g6llpl3+Sl4vYcNaMiihSOhuAI1WZBwOMUbSgtQkYNJcGAx
-        Z5SmoCQH0uBAsSA/ZIOCJ4HYoYvD/LfvAAAAAElFTkSuQmCC
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        xAAADsQBlSsOGwAAAOVJREFUOE+dkj8OAUEUxleiEI1EpdJoFQ4g0fjXcACNAziASnZHoVbpNYqdzhkc
+        wBX0Eo1QEM83L4bJi7Vrit83xb7vl8zbCYgoaOtZ0Zw+cHR1dIEkBGU5kAZHP56ToaejOyRLUJWDSXBY
+        wVsUqwcka1CXBQmHFHxQBMkWNGXRwvG97KKoo8M9RAOQ8xBYlNnTCZIxyHsILBDF6grJxFuAX3+EYPT3
+        FVA8oDgEvIuMAl7iDqWWmXf5KXi9hw1oyKKFI6G4AjVZkHA4xRtKC1CRg0lwYDFnlKagJAfS4ECxID9k
+        g4Ingdihi8P8t+8AAAAASUVORK5CYII=
 </value>
   </data>
   <data name="Menu_Level.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAA2SURBVDhPY5CUlPxPLgYCBrABIAY2TIzcqAHUMoBcDDcA
-        xMCGiZEbNYBaBpCLwQaACPLxfwYArmlzfOztmFwAAAAASUVORK5CYII=
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+        xAAADsQBlSsOGwAAADZJREFUOE9jkJSU/E8uBgIGsAEgBjZMjNyoAdQygFwMNwDEwIaJkRs1gFoGkIvB
+        BoAI8vF/BgCuaXN87O2YXAAAAABJRU5ErkJggg==
 </value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
