@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ImagePuzzle
 {
-    public partial class Form1 : Form
+    public partial class FormPuzzleGame : Form
     {
-        public Form1()
+        public FormPuzzleGame()
         {
             InitializeComponent();
         }
